@@ -44,7 +44,7 @@ Data Augmentation 기법을 통한 성능을 향상을 목표로 실험을 진�
 git clone https://github.com/LEEINSEO-0118/Artist_Classification.git
 
 # Install Prerequistes
-pip install
+pip install -r requirements.txt
 
 # Run .ipynb notebook
 (It will be updated after the project is finished)
