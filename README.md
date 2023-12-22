@@ -12,6 +12,7 @@ Closed된 [월간 데이콘 예술 작품 화가 분류 AI 경진대회
 * numpy 1.23.5
 * matplotlib 3.7.1
 * seaborn 0.12.2
+* ...
 ## Description
 #### 대회 소개
 * 목표 : 예술작품의 일부분(약 1/4)을 통해 화가를 분류하는 AI모델 개발
@@ -36,7 +37,7 @@ Data Augmentation 기법을 통한 성능을 향상을 목표로 실험을 진�
 * [Baseline_2](https://github.com/LEEINSEO-0118/Artist_Classification/blob/main/BaseLine/CV_Project_Baseline_2.ipynb)
     * 기존 Baseline에서 RandomResizedCrop을 적용
     * 나머지 조건은 동일  
-    Baseline_2 기반으로 실험한 Notebook(추후 추가 예정)
+    [Baseline_2 기반으로 실험한 Notebook](https://github.com/LEEINSEO-0118/Artist_Classification/tree/main/BaseLine_2_Test)
 
 ## Installation
 ```python
@@ -47,5 +48,4 @@ git clone https://github.com/LEEINSEO-0118/Artist_Classification.git
 pip install -r requirements.txt
 
 # Run .ipynb notebook
-(It will be updated after the project is finished)
 ```
