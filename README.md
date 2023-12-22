@@ -27,7 +27,7 @@ Data Augmentation 기법을 통한 성능을 향상을 목표로 실험을 진�
 * Base Environment
     * Tool : Google Colab and Kaggle Notebook
     * GPU : P100 and V100 and T4
-* [Baseline](https://github.com/LEEINSEO-0118/Artist_Classification/blob/main/BaseLine/CV_Project_Baseline.ipynb)
+* [Baseline](https://github.com/LEEINSEO-0118/Artist_Classification/blob/main/BaseLine/CV_Project_Team_Baseline.ipynb)
     * Dacon에서 제공해주는 Baseline을 기반으로 실험을 진행
     * Backbone : EfficientNet_b0
     * Loss : CrossEntropy
