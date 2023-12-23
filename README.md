@@ -1,6 +1,9 @@
-# Artist Classification  
+# Artist Classification  [![Linkedin Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)](https://medium.com/@dlstj1506/artist-classification-project-0475f351ce47)
+
 Closed된 [월간 데이콘 예술 작품 화가 분류 AI 경진대회
-](https://dacon.io/competitions/official/236006/overview/description)에 참여하는 Team Project!!  
+](https://dacon.io/competitions/official/236006/overview/description)에 참여하는 Team Project  
+디테일 한 내용은 블로그를 참고해주세요.
+
 ## Prerequisites
 * Colab or Kaggle Notebook
 * python 3.8.1
