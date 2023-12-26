@@ -1,8 +1,8 @@
-# Artist Classification  [![Linkedin Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)](https://medium.com/@dlstj1506/artist-classification-project-0475f351ce47)
-
-Closed된 [월간 데이콘 예술 작품 화가 분류 AI 경진대회
+# Artist Classification 
+Closed [월간 데이콘 예술 작품 화가 분류 AI 경진대회
 ](https://dacon.io/competitions/official/236006/overview/description)에 참여하는 Team Project  
-디테일 한 내용은 블로그를 참고해주세요.
+디테일 한 내용은 블로그를 참고해주세요.  
+[![Linkedin Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)](https://medium.com/@dlstj1506/artist-classification-project-0475f351ce47)
 
 ## Prerequisites
 * Colab or Kaggle Notebook
@@ -18,6 +18,7 @@ Closed된 [월간 데이콘 예술 작품 화가 분류 AI 경진대회
 * ...
 ## Description
 #### 대회 소개
+![Alt text](image.png)
 * 목표 : 예술작품의 일부분(약 1/4)을 통해 화가를 분류하는 AI모델 개발
 * Evaluation Metric : Macro F1 Score
 * Data
